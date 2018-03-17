@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "530d8037-0ef9-a746-a173-c5ecd497cb89++376" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "530d8037-0ef9-a746-a173-c5ecd497cb89++376" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1A25C07E-FE7A-4CEC-9CED-CF1289EDB6A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "530d8037-0ef9-a746-a173-c5ecd497cb89++376" : "KONDOR%E7%89%88%E6%9C%ACSVN\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MakeSmallVideo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MakeSmallVideo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.0.116\/svn\/DSPRoot",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "530d8037-0ef9-a746-a173-c5ecd497cb89++376"
+    }
+  ]
+}
